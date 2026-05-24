@@ -1,4 +1,4 @@
-# Predictive_Score_Analysis
+# data-science-credit-score-prediction
 Análise de dados preditiva feita com modelos de IA em Python para determinar o score de clientes como bons ou maus pagadores para uma empresa fictícia.
 
 ```markdown

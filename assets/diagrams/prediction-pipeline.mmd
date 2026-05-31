@@ -1,0 +1,10 @@
+flowchart LR
+    A["Training dataset"] --> B["Data preparation"]
+    B --> C["Train/test split"]
+    C --> D["Random Forest"]
+    C --> E["KNN"]
+    D --> F["Recorded accuracy comparison"]
+    E --> F
+    F --> G["Selected model"]
+    H["New records"] --> G
+    G --> I["Predicted score categories"]
